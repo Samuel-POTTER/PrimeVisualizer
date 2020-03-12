@@ -1,4 +1,4 @@
-##Prime number visualizer
+# Prime number visualizer
 
 A prime is a natural number that cannot be formed by multipling two smaller **natural** numbers. The aim of this project was to have a visualization of it by using their **Polar Coordonate**.
 
